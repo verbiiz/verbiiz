@@ -21,8 +21,8 @@ Rust • Japanese • WebAssembly • UI/Design • iOS
 ## 💼 Experience
 
 ### xlate — Founder
-**Aug 2024 – Present**
-https://xlate.ai
+**Aug 2024 – Present**  
+https://xlate.ai  
 
 - Architecting XOS, a cross-platform runtime and application framework in Rust with Python APIs, supporting desktop, mobile, and WebAssembly applications
 - Developing GPU-backed tensor and neural-network infrastructure, including automatic differentiation and model inference for language, speech, and computer vision applications
