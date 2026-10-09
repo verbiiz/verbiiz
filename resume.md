@@ -20,15 +20,15 @@ Rust • Japanese • WebAssembly • UI/Design • iOS
 
 ## 💼 Experience
 
-### xlate — Founder  
-**Aug 2024 – Present**  
-https://github.com/xlateai  
+### xlate — Founder
+**Aug 2024 – Present**
+https://xlate.ai
 
-Building reusable systems software and developer infrastructure for high-performance, cross-platform applications, with a focus on operating systems, build systems, compiler technology, testing, and runtime frameworks.
-
-- Architecting a cross-platform operating system and application framework spanning desktop, mobile, web, and embedded platforms
-- Designing build, deployment, and testing infrastructure to accelerate development and improve software reliability
-- Developing compiler, runtime, and developer tooling to support scalable application development
+- Architecting XOS, a cross-platform runtime and application framework in Rust with Python APIs, supporting desktop, mobile, and WebAssembly applications
+- Developing GPU-backed tensor and neural-network infrastructure, including automatic differentiation and model inference for language, speech, and computer vision applications
+- Building XCAD, a PCB compiler and design environment combining KiCad integration, computational geometry, automated placement and routing, and interactive visualization
+- Engineering shared build, deployment, and developer tooling with commit-pinned application previews, artifact verification, and integrated AI coding workflows
+- Building cross-platform test infrastructure and deterministic routing regression tests to validate correctness, diagnose failures, and improve software reliability
 
 ---
 
