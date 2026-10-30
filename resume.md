@@ -36,9 +36,10 @@ https://xtunes.ai
 **Aug 2024 – Present**  
 https://xlate.ai  
 
-- Investing in research in deep tech and operating systems
-- Building administration tools for systems design
+- Investing in research in AI and deep tech
 - Technical advising and collaborative partnerships with early-stage teams
+- Administrative design for emerging startups
+- Establishing our early technical assets, portfolio, and team members
 - Portfolio includes [xtunes](https://xtunes.ai), free, royalty-free AI music for everyone
 
 ---
