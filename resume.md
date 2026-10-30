@@ -1,5 +1,5 @@
 # Dyllan McCreary  
-**Founder of xtunes: free, royalty-free AI music for everyone · Founder & CEO, xlate · Previously Lead Research Engineer at quilter.ai**  
+**Founder @ xtunes · Founder & Investor @ xlate · Previously led research at quilter.ai**  
 
 [GitHub](https://github.com/verbiiz) • [LinkedIn](https://www.linkedin.com/in/dyllanm/) • dyllan@xlate.ai • dyllanmccreary@gmail.com
 
@@ -13,14 +13,14 @@ I like taking hard research all the way to something people actually use.
 
 ## 🧰 Skills
 
-**Strong**  
-Python • PyTorch • Reinforcement Learning • Deep Learning • Computer Vision  
+**Core**  
+Reinforcement Learning • Deep Learning • Computer Vision • Python • PyTorch  
 
-**Experienced**  
-C++ • Systems Engineering • Transformers • Computational Geometry  
+**Systems**  
+C++ • GPU Simulation • Distributed Training • Computational Geometry • Transformers  
 
 **Exploring**  
-Rust • Japanese • WebAssembly • UI/Design • iOS  
+Rust • WebAssembly • iOS • UI/Design • Japanese  
 
 ## 💼 Experience
 
@@ -52,7 +52,7 @@ https://quilter.ai
 
 - Trained and deployed a **superhuman reinforcement learning agent** for PCB component placement  
 - Built high-performance simulation environments generating **millions of layouts per minute**  
-- Engineered highly vectorized GPU systems for simulation and training  
+- Engineered vectorized GPU systems for simulation and training  
 
 ---
 
@@ -60,10 +60,9 @@ https://quilter.ai
 **2022 – 2023**  
 https://github.com/mindflowai/mindflow  
 
-- Co-developed an early **LLM-based coding agent system**  
+- Co-developed an early **LLM-based coding agent**  
 - Designed agent workflows for iterative code generation, execution, and feedback  
-- Explored early patterns in autonomous development systems prior to mainstream adoption  
-- Built abstractions similar to modern tool-using and self-improving agents  
+- Built tool-using agent abstractions ahead of mainstream adoption  
 
 ---
 
@@ -71,7 +70,7 @@ https://github.com/mindflowai/mindflow
 **Dec 2021 – May 2022**  
 https://gitcoin.co  
 
-- Designed adversarial simulations modeling strategic behavior in funding ecosystems  
+- Designed adversarial simulations of strategic behavior in funding ecosystems  
 - Built systems to detect and mitigate fraudulent activity  
 
 ---
@@ -80,7 +79,7 @@ https://gitcoin.co
 **Feb 2021 – Oct 2022**  
 https://www.activeloop.ai/  
 
-- Architected systems for **petabyte-scale dataset streaming**  
+- Architected **petabyte-scale dataset streaming**  
 - Developed high-performance distributed training pipelines  
 
 ---
@@ -88,7 +87,7 @@ https://www.activeloop.ai/
 ### Vathys AI — Machine Learning Engineer  
 **Mar 2019 – Mar 2021**
 
-- Designed multi-agent RL for chip layout optimization  
+- Designed multi-agent reinforcement learning for chip layout optimization  
 - Ran distributed training across **128+ GPUs**  
 
 ---
@@ -106,76 +105,59 @@ https://www.activeloop.ai/
 
 - Built ML systems, game mods, and backend tools  
 
-## 🔬 Research / PhD Contributions
+## 🔬 Research
 
-- **RigL Torch Contribution** — https://github.com/verbiiyo/rigl-torch  
-  - Contributed to implementation and mathematical rigor  
-  - Referenced in Google Brain paper: https://arxiv.org/abs/1911.11134  
+- **RigL (Google Brain), PyTorch implementation** — https://github.com/verbiiyo/rigl-torch  
+  - Contributed to the implementation and its mathematical rigor  
+  - Referenced in the Google Brain paper: https://arxiv.org/abs/1911.11134  
   - Code cited in follow-up sparsity work: https://arxiv.org/html/2305.02299v4  
 
-- **Multi-Agent Systems (PhD Collaboration)** — https://github.com/verbiiyo/ml-arena  
-  - Contributed to research on adversarial multi-agent environments and dynamic programming  
-  - Work informed subsequent research directions (unpublished collaboration)  
+- **Multi-Agent Systems, PhD collaboration** — https://github.com/verbiiyo/ml-arena  
+  - Research on adversarial multi-agent environments and dynamic programming  
+  - Informed subsequent research directions (unpublished)  
 
 - **MineRL BASALT Competition** — https://github.com/verbiiyo/basalt_2022_competition_nollied  
-  - Participant in BASALT challenge  
-  - Invited and sponsored to attend **NeurIPS** via MineRL (the day ChatGPT launched!)  
+  - Competitor in the BASALT challenge  
+  - Invited and sponsored by MineRL to attend **NeurIPS** (the day ChatGPT launched)  
 
-- **Neuroevolution (Flappy Bird)** — https://github.com/verbiiyo/neuro-evolution-flappy-bird  
-  - Evolutionary algorithm–based policy learning  
+- **Neuroevolution** — https://github.com/verbiiyo/neuro-evolution-flappy-bird  
+  - Evolutionary policy learning for Flappy Bird  
 
 - **Reinforcement Learning Foundations** — https://github.com/verbiiyo/ReinforcementLearning  
-  - GridWorld (TD learning)  
-  - Multi-Armed Bandit  
-  - TicTacToe (value-based methods)  
+  - TD learning (GridWorld), multi-armed bandits, value-based methods (TicTacToe)  
 
 ## 🎓 Education
 
 ### Udemy — AI / Machine Learning Coursework  
-**2018+**
+**2018 – Present**
 
-- Machine Learning foundations (regression, optimization)  
-- Deep Learning & Computer Vision  
-- Reinforcement Learning fundamentals  
+- Machine learning foundations (regression, optimization)  
+- Deep learning and computer vision  
+- Reinforcement learning fundamentals  
 
 ### De Anza College — Japanese Studies  
-**2024 - 2024**  
+**2024**  
 
-- Formal study following 1 year of self-directed learning  
+- Formal study following a year of self-directed learning  
 
 ### Sierra College — Mathematics  
 **2017 – 2018**
 
-- Founded and led Computer Science Club
-- Student government for opening a new club
-- Worked with the computer science department professors to allocate classroom time for us to meet
-- Wrote video games collaboratively with our members in Lua and offered general guidance and support https://github.com/sierra-college-cs-club
+- Founded and led the Computer Science Club, working with faculty and student government to establish it  
+- Built games collaboratively with members in Lua and mentored newer programmers (https://github.com/sierra-college-cs-club)  
 
 ### Woodcreek High School — Computer Science  
 **2013 – 2017**
 
-- Completed AP Computer Science coursework with an **A (college credit)**  
-- Final project: built an **Asteroids game in C++** (https://github.com/verbiiyo/Asteroids)  
-  - Received special permission to use C++ instead of the required Snap language  
-  - Went beyond course requirements with a full game implementation and performance-focused design  
+- AP Computer Science, **A (college credit)**  
+- Final project: an **Asteroids game in C++** (https://github.com/verbiiyo/Asteroids), with special permission to use C++ instead of the required Snap language  
 
 ---
 
 ## 🌱 Origins
 
-Wrote my first program in 2011 as a middle school student: a **security system and factory management OS** for the Minecraft modpack Tekkit using Lua (ComputerCraft). Iterated on this across multiple worlds, developing early intuition for automation, systems design, and stateful environments.
+I wrote my first program in 2011, in middle school: a **security system and factory management OS** in Lua for the Minecraft modpack Tekkit (ComputerCraft). Rebuilding it across worlds gave me early intuition for automation, systems design, and stateful environments.
 
-From 2014 through high school, focused heavily on **C++, Java, Unreal Engine, and web systems**, building games and tools (e.g., https://github.com/verbiiyo/Asteroids), which led to an interest in **performance engineering and low-level optimization**.
+Through high school I worked in **C++, Java, Unreal Engine, and web systems**, building games and tools, which pulled me toward **performance engineering and low-level optimization**.
 
-In 2018, began studying AI formally with Udemy ([coursework](https://github.com/verbiiyo/ReinforcementLearning)). Progressed from:
-- Linear and logistic regression  
-- Multivariate optimization and cost function derivation  
-- Deep learning and convolutional networks  
-- Reinforcement learning (value iteration, MCTS, TD methods)
-
-Built early RL systems including:
-- TicTacToe solvers (value iteration, MCTS, etc.)  
-- Multi-armed bandits and GridWorld control systems  
-- Transition into deep RL and ultimately **multi-agent reinforcement learning**
-
-This trajectory led to specialization in **RL systems, GPU-accelerated training, and evolutionary methods**, forming the foundation of current work.
+In 2018 I began studying AI formally, moving from regression and optimization through deep learning and convolutional networks to reinforcement learning (value iteration, MCTS, TD methods), and then to deep and **multi-agent reinforcement learning**. That path led to my focus on **RL systems, GPU-accelerated training, and evolutionary methods**, the foundation of my research today.
