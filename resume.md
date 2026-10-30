@@ -129,7 +129,7 @@ https://www.activeloop.ai/
 ## 🎓 Education
 
 ### Udemy — AI / Machine Learning Coursework  
-**2018 – Present**
+**2018 – 2020**
 
 - Machine learning foundations (regression, optimization)  
 - Deep learning and computer vision  
