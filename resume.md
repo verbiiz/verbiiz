@@ -5,9 +5,11 @@
 
 ## 🧠 Summary
 
-I'm building xtunes, free AI-generated music with no ads, no account needed, and royalty-free for commercial use, live at xtunes.ai with the App Store release coming soon.
+I build and back intelligent systems. Through xlate, I invest in AI and deep tech research, advise early-stage teams, and launch our own products, starting with xtunes, free royalty-free AI music for everyone.
 
-I've spent my career turning hard research into working systems. At quilter.ai, I was Lead Research Engineer, and I trained and deployed a superhuman reinforcement learning agent for PCB component placement, running on GPU simulations that generated millions of layouts per minute. Before that, I built ML infrastructure at Activeloop and Vathys, worked on an early LLM coding agent at Mindflow, and contributed to RigL, a sparse training method from Google Brain whose paper references my work. In 2024 I founded xlate to build cross-platform software and local AI, and xtunes grew out of that work as its first consumer product.
+Before that, I was Lead Research Engineer at quilter.ai, where I trained a superhuman reinforcement learning agent that lays out circuit boards on GPU simulations running millions of layouts per minute. Earlier, I built ML infrastructure at Activeloop and Vathys, worked on an early LLM coding agent at Mindflow, and contributed to Google Brain's RigL sparse-training research.
+
+I like taking hard research all the way to something people actually use.
 
 ## 🧰 Skills
 
