@@ -1,11 +1,13 @@
 # Dyllan McCreary  
-**Research Engineer**  
+**Founder of xtunes: free, royalty-free AI music for everyone · Founder, xlate · Previously Lead Research Engineer at quilter.ai**  
 
 [GitHub](https://github.com/verbiiz) • [LinkedIn](https://www.linkedin.com/in/dyllanm/) • dyllan@xlate.ai • dyllanmccreary@gmail.com
 
 ## 🧠 Summary
 
-Software Engineer with experience spanning hardware design, large-scale simulation, operating systems, build systems, compiler technology, and machine learning. Previously led development of quilter.ai's reinforcement learning system for automated PCB design and now building reusable software infrastructure at xlate to make complex applications faster to build, test, and maintain.
+I'm building xtunes, free AI-generated music with no ads, no account needed, and royalty-free for commercial use, live at xtunes.ai with the App Store release coming soon.
+
+I've spent my career turning hard research into working systems. At quilter.ai, I was Lead Research Engineer, and I trained and deployed a superhuman reinforcement learning agent for PCB component placement, running on GPU simulations that generated millions of layouts per minute. Before that, I built ML infrastructure at Activeloop and Vathys, worked on an early LLM coding agent at Mindflow, and contributed to RigL, a sparse training method from Google Brain whose paper references my work. In 2024 I founded xlate to build cross-platform software and local AI, and xtunes grew out of that work as its first consumer product.
 
 ## 🧰 Skills
 
@@ -19,6 +21,16 @@ C++ • Systems Engineering • Transformers • Computational Geometry
 Rust • Japanese • WebAssembly • UI/Design • iOS  
 
 ## 💼 Experience
+
+### xtunes — Founder
+**Oct 2026 – Present**  
+https://xtunes.ai  
+
+- Free AI-generated music library with no ads and no sign-in
+- Royalty-free with commercial use allowed under the xtunes Free License
+- Live on the web, App Store release coming soon
+
+---
 
 ### xlate — Founder
 **Aug 2024 – Present**  
