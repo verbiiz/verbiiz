@@ -137,7 +137,7 @@ End month confirmed 15 November 2026 (Pacific Time); matches the older Osaka ré
 ### Udemy — AI / Machine Learning Coursework  
 **October 2018 – 2020**
 
-AI/ML enrollments begin 5 October 2018 (Udemy confirmation emails). Further coursework was purchased 4 April 2020. No completion certificate was found.  
+AI/ML enrollments begin 5 October 2018 (Udemy confirmation emails). A completion-certificate email was received for Artificial Intelligence: Reinforcement Learning in Python on 14 October 2018 (Pacific Time). Further coursework was purchased 4 April 2020. No certificate emails were found for the other Udemy courses.  
 
 - Machine learning foundations (regression, optimization)  
 - Deep learning and computer vision  
