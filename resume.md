@@ -57,7 +57,7 @@ https://quilter.ai
 ---
 
 ### Mindflow — Founding Engineer (LLM Agent Systems)  
-**2022 – 2023**  
+**December 2022 – March 2023** (3 December 2022 – 15 March 2023)  
 https://github.com/mindflowai/mindflow  
 
 - Co-developed an early **LLM-based coding agent**  
@@ -76,16 +76,20 @@ https://gitcoin.co
 ---
 
 ### Activeloop AI — Machine Learning Engineer  
-**Feb 2021 – Oct 2022**  
+**March 2021 – November 2021**  
 https://www.activeloop.ai/  
+
+Dates follow the official employment verification letter (31 March 2025). The letter does not state exact days.  
 
 - Architected **petabyte-scale dataset streaming**  
 - Developed high-performance distributed training pipelines  
 
 ---
 
-### Vathys AI — Machine Learning Engineer  
-**Mar 2019 – Mar 2021**
+### Vathys AI — Machine Learning Engineer / Senior Machine Learning Engineer  
+**March 2019 – March 2021**
+
+Went by both titles. Exact start and end days were not found.  
 
 - Designed multi-agent reinforcement learning for chip layout optimization  
 - Ran distributed training across **128+ GPUs**  
@@ -101,7 +105,9 @@ https://www.activeloop.ai/
 ---
 
 ### Freelance Software Engineer  
-**Jan 2017 – Feb 2019**
+**January 2017 – 2019**
+
+The end month is unresolved (February 2019 on an earlier GitHub résumé, March 2019 on an older Osaka résumé). See `notes/employment-and-education-dates.md`.  
 
 - Built ML systems, game mods, and backend tools  
 
@@ -129,25 +135,32 @@ https://www.activeloop.ai/
 ## 🎓 Education
 
 ### Udemy — AI / Machine Learning Coursework  
-**2018 – 2020**
+**October 2018 – 2020**
+
+AI/ML enrollments begin 5 October 2018 (Udemy confirmation emails). Further coursework was purchased 4 April 2020. No completion certificate was found.  
 
 - Machine learning foundations (regression, optimization)  
 - Deep learning and computer vision  
 - Reinforcement learning fundamentals  
 
 ### De Anza College — Japanese Studies  
-**2024**  
+**Fall 2024**  
 
 - Formal study following a year of self-directed learning  
+- Registered 28 August 2024; classes began 23 September 2024. Did not graduate. Exact leave date after Fall 2024 is not established.  
 
 ### Sierra College — Mathematics  
-**2017 – 2018**
+**August 2017 – March 2019**
+
+Did not graduate. Left when work at Vathys began (March 2019). Fall 2017 instruction began 21 August 2017 (Sierra College catalog).  
 
 - Founded and led the Computer Science Club, working with faculty and student government to establish it  
 - Built games collaboratively with members in Lua and mentored newer programmers (https://github.com/sierra-college-cs-club)  
 
 ### Woodcreek High School — Computer Science  
-**2013 – 2017**
+**August 2013 – June 2017**
+
+Standard California public high school calendar (late August start, early June graduation); days are approximate.  
 
 - AP Computer Science, **A (college credit)**  
 - Final project: an **Asteroids game in C++** (https://github.com/verbiiyo/Asteroids), with special permission to use C++ instead of the required Snap language  
