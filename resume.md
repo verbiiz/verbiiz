@@ -3,6 +3,8 @@
 
 [GitHub](https://github.com/verbiiz) • [LinkedIn](https://www.linkedin.com/in/dyllanm/) • dyllan@xlate.ai • dyllanmccreary@gmail.com
 
+A 15 November 2026 (Pacific Time) date-and-title correction log is in [`notes/resume-changelog-2026-11-15.md`](notes/resume-changelog-2026-11-15.md).
+
 ## 🧠 Summary
 
 I build and back intelligent systems. Through xlate, I invest in AI and deep tech research, advise early-stage teams, and launch our own products, starting with xtunes, free royalty-free AI music for everyone.
@@ -147,7 +149,7 @@ AI/ML enrollments begin 5 October 2018 (Udemy confirmation emails). A completion
 **Fall 2024**  
 
 - Formal study following a year of self-directed learning  
-- Registered 28 August 2024; classes began 23 September 2024. Did not graduate. Exact leave date after Fall 2024 is not established.  
+- One term only: 23 September 2024 – 13 December 2024 (official De Anza Fall 2024 quarter). Registered 28 August 2024. Did not graduate.  
 
 ### Sierra College — Mathematics  
 **August 2017 – March 2019**
