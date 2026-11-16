@@ -20,7 +20,7 @@ A fuller copy of this note, including form-draft implications, is also in the pr
 | De Anza College, start | Registered 28 August 2024; classes began 23 September 2024 | Yes | High | De Anza email “Thank you for registering for 2024 Fall De Anza quarter,” 28 August 2024, stating classes begin 23 September. Course welcome for JAPN001 (Japanese Quarter One) dated 23 September 2024. Payment confirmation 8 September 2024. |
 | De Anza College, end | Fall 2024; exact leave date open | No | Open | Did not graduate. No “thank you for registering” (or payment) email was found for Winter 2025 or later. Campus mailing-list mail continued afterwards and is not treated as proof of later enrollment. |
 | Freelance software engineering, start | January 2017 | Month only | Medium | Consistent on the current résumé and the older Osaka résumé. Exact day not found. |
-| Freelance software engineering, end | **Open (February vs March 2019)** | No | Unresolved | Current GitHub résumé: February 2019. Older Osaka résumé: March 2019 (same month as the Vathys start). No invoice, contract, or other primary document was found that chooses one day or even one of those two months. Left open on purpose. |
+| Freelance software engineering, end | **March 2019** | Month only | High for the month; day not found | Confirmed by Dyllan on 15 November 2026 (Pacific Time). Matches the older Osaka résumé (and the Vathys start month). An earlier GitHub résumé had February 2019; that line is superseded. Exact day not found. |
 | SharpestMinds mentee | November 2018 – March 2019 | Month only | Medium | Existing résumé sources; not re-opened in this pass. |
 | Vathys AI | March 2019 – March 2021 | Month only | High for the months; title notation required | Months are consistent across current and Osaka résumés. Exact days were not found. **Title:** Dyllan used both *Machine Learning Engineer* (current résumé) and *Senior Machine Learning Engineer* (older Osaka résumé). He confirmed he went by both. Both titles are noted; neither is treated as an error. |
 | Optimal AI, LLC | 27 February 2020 – 31 May 2022 (Member and CEO) | Yes for formation and wind-down | High | California Articles of Organization filed 27 February 2020; operations ceased 31 May 2022 (already used in prior drafts). |
@@ -38,10 +38,11 @@ A fuller copy of this note, including form-draft implications, is also in the pr
 - **Mindflow “2022–2023” with no months.** Closed: 3 December 2022 – 15 March 2023, from first and last commits as described above.
 - **Sierra College “2017–2018” and unknown outcome.** Closed as: started with the Fall 2017 semester (instruction 21 August 2017), left without graduating in March 2019 when Vathys began.
 - **Vathys title ML Engineer vs Senior ML Engineer.** Not a dating conflict. Both titles were used; both are noted.
+- **Freelance end February vs March 2019.** Closed: March 2019, confirmed by Dyllan on 15 November 2026 (Pacific Time), matching the older Osaka résumé.
 
 ## Items still open
 
-- Freelance end month (February vs March 2019), and all freelance/Vathys exact days.
+- Exact days for freelance work and for Vathys, Woodcreek, AP Computer Science A, Gitcoin, quilter, xlate, and xtunes, unless a later primary source appears.
 - Udemy completion (no certificate found).
 - De Anza exact leave date after Fall 2024.
 - Exact days for Woodcreek, AP Computer Science A, Gitcoin, quilter, xlate, and xtunes, unless a later primary source appears.

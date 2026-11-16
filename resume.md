@@ -105,9 +105,9 @@ Went by both titles. Exact start and end days were not found.
 ---
 
 ### Freelance Software Engineer  
-**January 2017 – 2019**
+**January 2017 – March 2019**
 
-The end month is unresolved (February 2019 on an earlier GitHub résumé, March 2019 on an older Osaka résumé). See `notes/employment-and-education-dates.md`.  
+End month confirmed 15 November 2026 (Pacific Time); matches the older Osaka résumé. Exact day not found.  
 
 - Built ML systems, game mods, and backend tools  
 
